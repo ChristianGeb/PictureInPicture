@@ -38,5 +38,6 @@ button:hover {
 
 button:active {
   transform: translateY(3px);
+  padding: 0px;
   box-shadow: 0 6px 6px 0 rgba(0, 0, 0, 0.3);
 }
